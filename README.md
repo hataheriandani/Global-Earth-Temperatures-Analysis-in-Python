@@ -352,7 +352,7 @@ LightningChart's performance and flexibility make it an excellent choice for dat
 
 - [Python](https://www.python.org/)
 - [LightningChart](https://lightningchart.com/python-charts/docs/charts/)
-- [NASA](https://ourworldindata.org/co2-emissions)
+- [NASA](https://climate.nasa.gov/vital-signs/global-temperature/?intent=121)
 - [NOAA National Centers for Environmental Information](https://www.ncei.noaa.gov/access/monitoring/climate-at-a-glance/divisional/time-series)
 - [Our World in Data](https://ourworldindata.org/temperature-anomaly)
 	
